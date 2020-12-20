@@ -1,4 +1,4 @@
-# Data Wrangling - Twitter data - We Rate Dogs
+# Data Wrangling - Twitter data - WeRateDogs
 
 ## 1. Introduction
 This is a summary of the data wrangling efforts made to gather, assess, and clean the WeRateDogs data as part of the Udacity Data Analytics Nanodegree.
